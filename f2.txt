@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 f2 txt changed in master
+=======
+f2.txt in b1
+>>>>>>> b1
